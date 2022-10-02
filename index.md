@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="images/FlavoredRainDrop.png" alt="Code visualized in vibrant blue" width="300"/>
+<img src="images/FlavoredRainDrop.png" alt="Code visualized in vibrant blue." width="300"/>
 
 ## About Me
 ```>>> Hello World```
