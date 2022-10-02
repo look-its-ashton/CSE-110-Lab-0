@@ -9,7 +9,7 @@
 
 <br>
 
-![Code visualized in vibrant blue](images/FlavoredRainDrop.png)
+<img src="images/FlavoredRainDrop.png" alt="Code visualized in vibrant blue" width="300"/>
 
 ## About Me
 ```>>> Hello World```
@@ -28,16 +28,18 @@ This is my second class with professor Powell (the first being CSE 134B) and so 
 
 <br>
 
-![The skatepark underneath Washington Street](images/MonochromeGeometry.png)
-
 ## My Interests
+
+<img src="images/MonochromeGeometry.png" alt="The skatepark underneath Washington Street" style="float:right;width:260px;height:210px;padding-left:15px"/>
+
 I am a sound ~~geek~~ *enthusiast* and very interested in speaker design, digital audio signal processing and sound installations. I am also a passionate DJ and an avid member of the DJ communty on campus. In addition to my passion for noise I also enjoy calisthenics, swimming, and skateboarding. I love standup comedy and podcasting as well as conducting interviews and deep conversations about anything *try me :)*
 
 <br>
 
-![a selfie of me in Marshall College](images/SchoolboySelfie.jpg)
-
 ## Why I'm Here
+
+<img src="images/SchoolboySelfie.jpg" alt="a selfie of me in Marshall College" width="200" style="float:right;width:160px;height:200px;padding-left:15px"/>
+
 A wise man (who coincidentally is the professor for this class) once told me that there is really no functional difference between the operating system which I am using to type up this document and my Chrome browser. 
 >There really isn't much of a difference between
 >your operating system and the Chrome browser. In fact look at the Chromebook, the web browser IS the operating system!
