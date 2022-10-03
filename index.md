@@ -49,3 +49,14 @@ A wise man (who coincidentally is the professor for this class) once told me tha
  ```> End Transmission```
 
 [top of page](#)
+
+<br>
+
+***While you're here...***
+<br>
+How did you find this page? 
+
+- [x] I sent you here
+- [ ] resume/job site
+- [ ] Github respository
+- [ ] Personal website
